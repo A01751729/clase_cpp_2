@@ -8,6 +8,5 @@ Aguila::Aguila(string s):Ave(s){
 };
 
 void Aguila::volar(){
-    Ave::volar();
     cout<<"soy la mas rapida"<<endl;
 };

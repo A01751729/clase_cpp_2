@@ -6,6 +6,8 @@ using std::endl;
 Ave::Ave(string x)
 {
     nombre=x;
+    cout<<"Me llamo "<<nombre<<endl;
+
 };
 
 void Ave::volar()
