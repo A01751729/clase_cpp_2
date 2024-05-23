@@ -4,7 +4,7 @@
 using std::string;
 
 class Ave{
-    private: 
+    protected: 
     string nombre;
     public:
     Ave(string s); 

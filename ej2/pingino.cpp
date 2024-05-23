@@ -8,5 +8,6 @@ Pingino::Pingino(string s):Ave(s){
 };
 
 void Pingino::volar(){
+    cout<<"Soy un pinguino llamado "<<nombre<<endl;
     cout<<"No puedo volar"<<endl;
 };
